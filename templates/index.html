@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <title>Sistem Pakar - Diagnosis Penyakit Tanaman</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+  <style>
+    body {
+      margin: 0; padding: 0;
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: linear-gradient(135deg, #e8ffe8, #d4f7d4);
+      min-height: 100vh; display: flex; justify-content: center; align-items: flex-start;
+      padding-top: 50px;
+    }
+    .box {
+      width: 480px; background: white; padding: 30px; border-radius: 18px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+    }
+    h1 { text-align: center; color: #1f7a1f; margin-bottom: 25px; font-size: 26px; font-weight: 700; }
+    label { display: block; margin-top: 18px; margin-bottom: 6px; font-weight: 600; color: #1f7a1f; }
+    select { width: 100%; padding: 10px; border-radius: 10px; border: 1px solid #cce8cc; background: #f4fff4; font-size: 15px; }
+    .btn-modern { width: 200px; margin: 30px auto 0 auto; padding: 12px; display: block; text-align: center;
+      background: linear-gradient(135deg, #34a853, #1e7a34); color: white; font-size: 17px; font-weight: 600;
+      border: none; border-radius: 14px; cursor: pointer; transition: 0.25s ease-in-out;
+      box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+    }
+    .btn-modern:hover { background: linear-gradient(135deg, #2e944a, #1a6a2c); transform: translateY(-2px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.22); }
+  </style>
+</head>
+<body>
+  <div class="box" data-aos="fade-up">
+    <h1 data-aos="zoom-in">Sistem Pakar - Diagnosis Penyakit Tanaman</h1>
+    <form action="/diagnose" method="post">
+      <!-- Input Nama Tanaman -->
+      <label data-aos="fade-right">Nama Tanaman</label>
+      <select name="Nama_Tanaman" data-aos="fade-left">
+        <option value="">-- Pilih Tanaman --</option>
+        {% for plant in plant_names %}
+        <option value="{{ plant }}">{{ plant }}</option>
+        {% endfor %}
+      </select>
+
+      {% for feature, vals in options.items() %}
+      <label data-aos="fade-right">{{ feature.replace('_',' ') }}</label>
+      <select name="{{ feature }}" data-aos="fade-left">
+        <option value="">-- Pilih --</option>
+        {% for v in vals %}
+        <option value="{{ v }}">{{ v }}</option>
+        {% endfor %}
+      </select>
+      {% endfor %}
+
+      <button type="submit" class="btn-modern">Diagnosa</button>
+    </form>
+  </div>
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>AOS.init();</script>
+</body>
+</html>
