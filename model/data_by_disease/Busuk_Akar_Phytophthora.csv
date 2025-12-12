@@ -1,0 +1,28 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+8,Singkong,Hijau,Tidak,Tidak,Ya,Ya,Busuk Akar Phytophthora
+9,Cabai,Coklat,Ya,Ya,Tidak,Ya,Busuk Akar Phytophthora
+36,Cabai,Hijau,Ya,Ya,Ya,Ya,Busuk Akar Phytophthora
+65,Mangga,Kuning,Ya,Ya,Ya,Ya,Busuk Akar Phytophthora
+76,Kentang,Hijau,Ya,Ya,Ya,Tidak,Busuk Akar Phytophthora
+78,Kubis,Hijau,Tidak,Tidak,Tidak,Ya,Busuk Akar Phytophthora
+80,Tebu,Hijau,Tidak,Ya,Ya,Tidak,Busuk Akar Phytophthora
+82,Mangga,Coklat,Tidak,Tidak,Ya,Ya,Busuk Akar Phytophthora
+112,Cabai,Hijau,Tidak,Tidak,Tidak,Ya,Busuk Akar Phytophthora
+130,Bayam,Hijau,Ya,Tidak,Tidak,Ya,Busuk Akar Phytophthora
+161,Padi,Kuning,Tidak,Tidak,Ya,Tidak,Busuk Akar Phytophthora
+165,Semangka,Kuning,Tidak,Ya,Ya,Tidak,Busuk Akar Phytophthora
+168,Kacang Tanah,Coklat,Tidak,Ya,Tidak,Tidak,Busuk Akar Phytophthora
+183,Jagung,Coklat,Tidak,Tidak,Tidak,Tidak,Busuk Akar Phytophthora
+184,Kacang Tanah,Kuning,Tidak,Ya,Tidak,Tidak,Busuk Akar Phytophthora
+189,Kubis,Kuning,Tidak,Ya,Tidak,Tidak,Busuk Akar Phytophthora
+192,Kopi,Coklat,Ya,Ya,Tidak,Ya,Busuk Akar Phytophthora
+198,Kopi,Kuning,Ya,Tidak,Tidak,Ya,Busuk Akar Phytophthora
+238,Tebu,Kuning,Ya,Ya,Ya,Ya,Busuk Akar Phytophthora
+239,Kentang,Coklat,Ya,Ya,Ya,Tidak,Busuk Akar Phytophthora
+244,Kacang Tanah,Hijau,Tidak,Ya,Ya,Tidak,Busuk Akar Phytophthora
+262,Kopi,Hijau,Tidak,Ya,Ya,Tidak,Busuk Akar Phytophthora
+275,Terong,Coklat,Tidak,Tidak,Ya,Ya,Busuk Akar Phytophthora
+276,Singkong,Hijau,Ya,Tidak,Ya,Tidak,Busuk Akar Phytophthora
+283,Cabai,Coklat,Ya,Ya,Ya,Tidak,Busuk Akar Phytophthora
+288,Mangga,Coklat,Tidak,Ya,Tidak,Tidak,Busuk Akar Phytophthora
+294,Mangga,Kuning,Tidak,Tidak,Tidak,Ya,Busuk Akar Phytophthora

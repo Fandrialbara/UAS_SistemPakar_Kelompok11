@@ -1,0 +1,18 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+3,Kentang,Hijau,Ya,Tidak,Tidak,Ya,Busuk Hitam
+10,Kentang,Hijau,Tidak,Ya,Tidak,Tidak,Bercak Daun
+66,Kentang,Coklat,Tidak,Ya,Ya,Tidak,Bercak Daun Cercospora
+76,Kentang,Hijau,Ya,Ya,Ya,Tidak,Busuk Akar Phytophthora
+96,Kentang,Hijau,Ya,Tidak,Tidak,Ya,Embun Tepung
+104,Kentang,Kuning,Tidak,Ya,Ya,Tidak,Layu Fusarium
+145,Kentang,Coklat,Ya,Ya,Tidak,Ya,Hawar Daun Bakteri
+173,Kentang,Coklat,Ya,Ya,Tidak,Ya,Busuk Buah Botrytis
+176,Kentang,Kuning,Ya,Tidak,Tidak,Tidak,Bercak Daun Cercospora
+229,Kentang,Kuning,Ya,Tidak,Ya,Tidak,Antraknosa
+239,Kentang,Coklat,Ya,Ya,Ya,Tidak,Busuk Akar Phytophthora
+253,Kentang,Hijau,Tidak,Ya,Ya,Tidak,Layu Bakteri
+272,Kentang,Coklat,Tidak,Ya,Ya,Tidak,Hawar Daun Bakteri
+278,Kentang,Hijau,Ya,Tidak,Tidak,Tidak,Hawar Daun Bakteri
+285,Kentang,Kuning,Ya,Ya,Ya,Ya,Jamur Upas
+289,Kentang,Coklat,Tidak,Tidak,Tidak,Ya,Busuk Lunak
+297,Kentang,Kuning,Tidak,Ya,Tidak,Tidak,Busuk Hitam

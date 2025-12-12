@@ -1,0 +1,14 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+13,Terong,Hijau,Ya,Tidak,Ya,Tidak,Layu Bakteri
+22,Terong,Coklat,Tidak,Ya,Tidak,Ya,Karat Daun
+24,Terong,Hijau,Ya,Tidak,Tidak,Tidak,Karat Daun
+50,Terong,Hijau,Tidak,Tidak,Ya,Tidak,Busuk Buah Botrytis
+55,Terong,Hijau,Ya,Tidak,Tidak,Ya,Karat Daun
+59,Terong,Hijau,Tidak,Ya,Tidak,Tidak,Karat Daun
+75,Terong,Coklat,Tidak,Ya,Ya,Ya,Antraknosa
+95,Terong,Coklat,Ya,Tidak,Tidak,Tidak,Embun Tepung
+100,Terong,Coklat,Tidak,Ya,Tidak,Ya,Busuk Buah Botrytis
+128,Terong,Hijau,Tidak,Tidak,Ya,Ya,Bercak Daun
+140,Terong,Hijau,Ya,Ya,Ya,Tidak,Bercak Daun
+213,Terong,Coklat,Ya,Ya,Tidak,Ya,Layu Fusarium
+275,Terong,Coklat,Tidak,Tidak,Ya,Ya,Busuk Akar Phytophthora

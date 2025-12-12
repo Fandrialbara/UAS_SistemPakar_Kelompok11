@@ -1,0 +1,4 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+8,Singkong,Hijau,Tidak,Tidak,Ya,Ya,Busuk Akar Phytophthora
+9,Cabai,Coklat,Ya,Ya,Tidak,Ya,Busuk Akar Phytophthora
+76,Kentang,Hijau,Ya,Ya,Ya,Tidak,Busuk Akar Phytophthora

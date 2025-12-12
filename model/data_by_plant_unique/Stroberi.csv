@@ -1,0 +1,8 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+1,Stroberi,Kuning,Tidak,Ya,Ya,Ya,Busuk Lunak
+34,Stroberi,Kuning,Ya,Tidak,Tidak,Tidak,Busuk Lunak
+56,Stroberi,Hijau,Ya,Tidak,Ya,Tidak,Karat Daun
+97,Stroberi,Kuning,Ya,Ya,Ya,Ya,Hawar Daun Bakteri
+98,Stroberi,Kuning,Tidak,Ya,Tidak,Tidak,Layu Fusarium
+208,Stroberi,Hijau,Ya,Ya,Tidak,Tidak,Hawar Daun Bakteri
+235,Stroberi,Coklat,Tidak,Tidak,Ya,Ya,Busuk Lunak

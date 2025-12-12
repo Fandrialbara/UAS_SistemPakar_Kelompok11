@@ -1,0 +1,49 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+1,Stroberi,Kuning,Tidak,Ya,Ya,Ya,Busuk Lunak
+2,Mangga,Hijau,Ya,Ya,Tidak,Tidak,Karat Daun
+3,Kentang,Hijau,Ya,Tidak,Tidak,Ya,Busuk Hitam
+4,Mangga,Kuning,Tidak,Tidak,Tidak,Tidak,Hawar Daun Bakteri
+5,Melon,Kuning,Tidak,Ya,Ya,Tidak,Antraknosa
+6,Pepaya,Kuning,Ya,Tidak,Ya,Ya,Bercak Daun
+7,Bayam,Coklat,Ya,Tidak,Tidak,Tidak,Hawar Daun Bakteri
+8,Singkong,Hijau,Tidak,Tidak,Ya,Ya,Busuk Akar Phytophthora
+9,Cabai,Coklat,Ya,Ya,Tidak,Ya,Busuk Akar Phytophthora
+10,Kentang,Hijau,Tidak,Ya,Tidak,Tidak,Bercak Daun
+12,Tomat,Kuning,Ya,Tidak,Ya,Tidak,Busuk Akar
+13,Terong,Hijau,Ya,Tidak,Ya,Tidak,Layu Bakteri
+15,Pepaya,Coklat,Tidak,Ya,Tidak,Tidak,Layu Bakteri
+17,Kubis,Hijau,Tidak,Ya,Tidak,Ya,Busuk Akar
+18,Kopi,Kuning,Ya,Tidak,Tidak,Ya,Antraknosa
+19,Bayam,Kuning,Tidak,Tidak,Ya,Tidak,Embun Tepung
+20,Tebu,Coklat,Tidak,Tidak,Tidak,Ya,Jamur Upas
+21,Tomat,Hijau,Tidak,Ya,Ya,Tidak,Busuk Lunak
+22,Terong,Coklat,Tidak,Ya,Tidak,Ya,Karat Daun
+23,Tebu,Hijau,Tidak,Tidak,Tidak,Ya,Embun Tepung
+24,Terong,Hijau,Ya,Tidak,Tidak,Tidak,Karat Daun
+25,Kacang Tanah,Kuning,Ya,Ya,Ya,Ya,Antraknosa
+27,Kubis,Coklat,Ya,Tidak,Ya,Ya,Antraknosa
+28,Wortel,Hijau,Ya,Ya,Ya,Ya,Layu Bakteri
+31,Kopi,Kuning,Tidak,Tidak,Ya,Ya,Jamur Upas
+32,Mangga,Coklat,Ya,Tidak,Ya,Tidak,Karat Daun
+33,Kacang Tanah,Hijau,Ya,Tidak,Ya,Ya,Karat Daun
+34,Stroberi,Kuning,Ya,Tidak,Tidak,Tidak,Busuk Lunak
+38,Singkong,Hijau,Tidak,Tidak,Tidak,Tidak,Layu Fusarium
+39,Singkong,Kuning,Ya,Ya,Tidak,Ya,Bercak Daun
+40,Singkong,Coklat,Tidak,Tidak,Ya,Tidak,Layu Fusarium
+44,Bayam,Kuning,Tidak,Tidak,Tidak,Ya,Bercak Daun Cercospora
+45,Mangga,Coklat,Tidak,Tidak,Ya,Ya,Busuk Akar
+48,Kubis,Kuning,Ya,Ya,Tidak,Tidak,Busuk Lunak
+49,Tebu,Hijau,Tidak,Tidak,Ya,Tidak,Hawar Daun Bakteri
+54,Kopi,Coklat,Ya,Ya,Tidak,Tidak,Busuk Akar
+64,Padi,Coklat,Tidak,Tidak,Tidak,Tidak,Busuk Lunak
+66,Kentang,Coklat,Tidak,Ya,Ya,Tidak,Bercak Daun Cercospora
+75,Terong,Coklat,Tidak,Ya,Ya,Ya,Antraknosa
+76,Kentang,Hijau,Ya,Ya,Ya,Tidak,Busuk Akar Phytophthora
+77,Padi,Coklat,Ya,Ya,Ya,Tidak,Antraknosa
+84,Bayam,Kuning,Tidak,Ya,Tidak,Ya,Busuk Lunak
+86,Cabai,Kuning,Ya,Ya,Ya,Tidak,Layu Fusarium
+88,Kacang Tanah,Kuning,Tidak,Ya,Tidak,Tidak,Layu Fusarium
+103,Melon,Coklat,Ya,Tidak,Tidak,Ya,Busuk Hitam
+106,Kubis,Hijau,Tidak,Ya,Ya,Ya,Embun Tepung
+120,Jagung,Coklat,Ya,Ya,Ya,Ya,Embun Tepung
+147,Semangka,Hijau,Ya,Ya,Tidak,Ya,Busuk Lunak

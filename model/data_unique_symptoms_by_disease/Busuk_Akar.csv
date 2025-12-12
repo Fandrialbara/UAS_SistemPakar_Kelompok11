@@ -1,0 +1,5 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+12,Tomat,Kuning,Ya,Tidak,Ya,Tidak,Busuk Akar
+17,Kubis,Hijau,Tidak,Ya,Tidak,Ya,Busuk Akar
+45,Mangga,Coklat,Tidak,Tidak,Ya,Ya,Busuk Akar
+54,Kopi,Coklat,Ya,Ya,Tidak,Tidak,Busuk Akar

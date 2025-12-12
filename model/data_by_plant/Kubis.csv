@@ -1,0 +1,15 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+17,Kubis,Hijau,Tidak,Ya,Tidak,Ya,Busuk Akar
+27,Kubis,Coklat,Ya,Tidak,Ya,Ya,Antraknosa
+48,Kubis,Kuning,Ya,Ya,Tidak,Tidak,Busuk Lunak
+62,Kubis,Coklat,Tidak,Tidak,Ya,Ya,Karat Daun
+78,Kubis,Hijau,Tidak,Tidak,Tidak,Ya,Busuk Akar Phytophthora
+106,Kubis,Hijau,Tidak,Ya,Ya,Ya,Embun Tepung
+136,Kubis,Hijau,Ya,Tidak,Ya,Ya,Bercak Daun
+166,Kubis,Kuning,Ya,Tidak,Tidak,Tidak,Layu Bakteri
+188,Kubis,Coklat,Ya,Tidak,Ya,Tidak,Busuk Lunak
+189,Kubis,Kuning,Tidak,Ya,Tidak,Tidak,Busuk Akar Phytophthora
+190,Kubis,Coklat,Ya,Ya,Ya,Ya,Antraknosa
+240,Kubis,Hijau,Ya,Ya,Ya,Ya,Hawar Daun Bakteri
+241,Kubis,Kuning,Ya,Tidak,Tidak,Tidak,Embun Tepung
+273,Kubis,Kuning,Tidak,Ya,Ya,Tidak,Busuk Hitam

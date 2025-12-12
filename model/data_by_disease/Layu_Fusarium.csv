@@ -1,0 +1,24 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+38,Singkong,Hijau,Tidak,Tidak,Tidak,Tidak,Layu Fusarium
+40,Singkong,Coklat,Tidak,Tidak,Ya,Tidak,Layu Fusarium
+73,Bayam,Coklat,Ya,Ya,Tidak,Tidak,Layu Fusarium
+86,Cabai,Kuning,Ya,Ya,Ya,Tidak,Layu Fusarium
+88,Kacang Tanah,Kuning,Tidak,Ya,Tidak,Tidak,Layu Fusarium
+98,Stroberi,Kuning,Tidak,Ya,Tidak,Tidak,Layu Fusarium
+104,Kentang,Kuning,Tidak,Ya,Ya,Tidak,Layu Fusarium
+151,Pepaya,Hijau,Tidak,Tidak,Tidak,Tidak,Layu Fusarium
+158,Kacang Tanah,Hijau,Ya,Ya,Tidak,Tidak,Layu Fusarium
+179,Wortel,Hijau,Ya,Tidak,Tidak,Ya,Layu Fusarium
+181,Semangka,Hijau,Ya,Ya,Ya,Ya,Layu Fusarium
+182,Semangka,Coklat,Tidak,Tidak,Tidak,Tidak,Layu Fusarium
+195,Semangka,Hijau,Ya,Ya,Ya,Ya,Layu Fusarium
+196,Jagung,Coklat,Ya,Ya,Tidak,Tidak,Layu Fusarium
+213,Terong,Coklat,Ya,Ya,Tidak,Ya,Layu Fusarium
+218,Kopi,Kuning,Ya,Tidak,Tidak,Tidak,Layu Fusarium
+225,Jagung,Kuning,Ya,Ya,Ya,Tidak,Layu Fusarium
+226,Bayam,Hijau,Ya,Tidak,Ya,Ya,Layu Fusarium
+242,Kopi,Coklat,Tidak,Tidak,Tidak,Tidak,Layu Fusarium
+252,Jagung,Kuning,Ya,Tidak,Tidak,Ya,Layu Fusarium
+267,Singkong,Hijau,Tidak,Ya,Ya,Ya,Layu Fusarium
+271,Wortel,Kuning,Ya,Ya,Tidak,Tidak,Layu Fusarium
+295,Wortel,Kuning,Ya,Tidak,Ya,Ya,Layu Fusarium

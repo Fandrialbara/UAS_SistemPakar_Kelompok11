@@ -1,0 +1,19 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+11,Bayam,Hijau,Ya,Tidak,Tidak,Ya,Bercak Daun Cercospora
+41,Semangka,Coklat,Ya,Ya,Tidak,Ya,Bercak Daun Cercospora
+44,Bayam,Kuning,Tidak,Tidak,Tidak,Ya,Bercak Daun Cercospora
+66,Kentang,Coklat,Tidak,Ya,Ya,Tidak,Bercak Daun Cercospora
+79,Melon,Kuning,Ya,Tidak,Ya,Tidak,Bercak Daun Cercospora
+113,Bayam,Coklat,Ya,Ya,Ya,Tidak,Bercak Daun Cercospora
+143,Singkong,Hijau,Tidak,Ya,Tidak,Tidak,Bercak Daun Cercospora
+163,Bayam,Kuning,Tidak,Tidak,Ya,Tidak,Bercak Daun Cercospora
+171,Padi,Kuning,Tidak,Ya,Tidak,Tidak,Bercak Daun Cercospora
+176,Kentang,Kuning,Ya,Tidak,Tidak,Tidak,Bercak Daun Cercospora
+199,Wortel,Kuning,Ya,Ya,Tidak,Tidak,Bercak Daun Cercospora
+230,Melon,Kuning,Ya,Tidak,Tidak,Ya,Bercak Daun Cercospora
+247,Tomat,Coklat,Tidak,Ya,Ya,Ya,Bercak Daun Cercospora
+257,Wortel,Kuning,Tidak,Tidak,Ya,Ya,Bercak Daun Cercospora
+280,Pepaya,Coklat,Ya,Ya,Tidak,Tidak,Bercak Daun Cercospora
+282,Wortel,Hijau,Tidak,Ya,Tidak,Ya,Bercak Daun Cercospora
+291,Padi,Hijau,Tidak,Ya,Ya,Ya,Bercak Daun Cercospora
+300,Padi,Coklat,Tidak,Ya,Ya,Tidak,Bercak Daun Cercospora

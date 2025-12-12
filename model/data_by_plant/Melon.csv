@@ -1,0 +1,22 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+5,Melon,Kuning,Tidak,Ya,Ya,Tidak,Antraknosa
+35,Melon,Hijau,Ya,Tidak,Ya,Tidak,Bercak Daun
+70,Melon,Kuning,Ya,Tidak,Ya,Tidak,Busuk Buah Botrytis
+71,Melon,Kuning,Tidak,Ya,Ya,Ya,Busuk Hitam
+79,Melon,Kuning,Ya,Tidak,Ya,Tidak,Bercak Daun Cercospora
+81,Melon,Kuning,Tidak,Ya,Ya,Ya,Embun Tepung
+90,Melon,Kuning,Ya,Tidak,Tidak,Ya,Karat Daun
+103,Melon,Coklat,Ya,Tidak,Tidak,Ya,Busuk Hitam
+125,Melon,Coklat,Ya,Ya,Tidak,Ya,Layu Bakteri
+132,Melon,Kuning,Tidak,Ya,Ya,Ya,Busuk Hitam
+133,Melon,Coklat,Tidak,Ya,Tidak,Ya,Karat Daun
+134,Melon,Hijau,Ya,Ya,Ya,Tidak,Antraknosa
+148,Melon,Hijau,Ya,Ya,Ya,Tidak,Jamur Upas
+212,Melon,Coklat,Ya,Tidak,Tidak,Tidak,Busuk Lunak
+217,Melon,Hijau,Ya,Ya,Tidak,Ya,Busuk Akar
+222,Melon,Hijau,Tidak,Tidak,Ya,Ya,Antraknosa
+230,Melon,Kuning,Ya,Tidak,Tidak,Ya,Bercak Daun Cercospora
+236,Melon,Hijau,Tidak,Ya,Ya,Tidak,Busuk Akar
+258,Melon,Hijau,Tidak,Tidak,Ya,Tidak,Layu Bakteri
+292,Melon,Coklat,Tidak,Ya,Tidak,Tidak,Busuk Hitam
+293,Melon,Coklat,Ya,Tidak,Ya,Ya,Bercak Daun

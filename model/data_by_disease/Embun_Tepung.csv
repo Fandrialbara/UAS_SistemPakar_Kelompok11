@@ -1,0 +1,22 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+14,Pepaya,Hijau,Ya,Tidak,Ya,Tidak,Embun Tepung
+19,Bayam,Kuning,Tidak,Tidak,Ya,Tidak,Embun Tepung
+23,Tebu,Hijau,Tidak,Tidak,Tidak,Ya,Embun Tepung
+47,Jagung,Hijau,Tidak,Tidak,Ya,Ya,Embun Tepung
+81,Melon,Kuning,Tidak,Ya,Ya,Ya,Embun Tepung
+91,Mangga,Coklat,Ya,Tidak,Ya,Ya,Embun Tepung
+95,Terong,Coklat,Ya,Tidak,Tidak,Tidak,Embun Tepung
+96,Kentang,Hijau,Ya,Tidak,Tidak,Ya,Embun Tepung
+106,Kubis,Hijau,Tidak,Ya,Ya,Ya,Embun Tepung
+107,Padi,Hijau,Tidak,Tidak,Tidak,Tidak,Embun Tepung
+114,Kopi,Hijau,Tidak,Ya,Tidak,Ya,Embun Tepung
+120,Jagung,Coklat,Ya,Ya,Ya,Ya,Embun Tepung
+142,Tebu,Coklat,Ya,Ya,Tidak,Ya,Embun Tepung
+155,Kacang Tanah,Hijau,Tidak,Ya,Ya,Tidak,Embun Tepung
+156,Pepaya,Coklat,Tidak,Ya,Ya,Tidak,Embun Tepung
+170,Singkong,Coklat,Ya,Ya,Tidak,Tidak,Embun Tepung
+200,Jagung,Hijau,Ya,Ya,Ya,Tidak,Embun Tepung
+241,Kubis,Kuning,Ya,Tidak,Tidak,Tidak,Embun Tepung
+261,Tebu,Kuning,Ya,Ya,Ya,Tidak,Embun Tepung
+277,Bayam,Hijau,Tidak,Ya,Ya,Ya,Embun Tepung
+290,Jagung,Hijau,Ya,Tidak,Tidak,Ya,Embun Tepung

@@ -1,0 +1,18 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+12,Tomat,Kuning,Ya,Tidak,Ya,Tidak,Busuk Akar
+21,Tomat,Hijau,Tidak,Ya,Ya,Tidak,Busuk Lunak
+29,Tomat,Hijau,Tidak,Ya,Tidak,Ya,Antraknosa
+60,Tomat,Kuning,Tidak,Ya,Ya,Ya,Busuk Lunak
+68,Tomat,Kuning,Tidak,Ya,Ya,Tidak,Karat Daun
+109,Tomat,Hijau,Tidak,Tidak,Tidak,Ya,Busuk Lunak
+124,Tomat,Kuning,Ya,Tidak,Tidak,Tidak,Karat Daun
+137,Tomat,Hijau,Tidak,Tidak,Tidak,Tidak,Antraknosa
+160,Tomat,Coklat,Ya,Ya,Tidak,Tidak,Layu Bakteri
+187,Tomat,Kuning,Tidak,Ya,Ya,Tidak,Jamur Upas
+194,Tomat,Coklat,Ya,Ya,Ya,Ya,Bercak Daun
+210,Tomat,Hijau,Ya,Tidak,Ya,Tidak,Busuk Buah Botrytis
+247,Tomat,Coklat,Tidak,Ya,Ya,Ya,Bercak Daun Cercospora
+265,Tomat,Hijau,Tidak,Ya,Ya,Tidak,Antraknosa
+268,Tomat,Hijau,Tidak,Tidak,Ya,Ya,Karat Daun
+296,Tomat,Kuning,Ya,Ya,Ya,Ya,Jamur Upas
+299,Tomat,Coklat,Ya,Ya,Tidak,Ya,Hawar Daun Bakteri

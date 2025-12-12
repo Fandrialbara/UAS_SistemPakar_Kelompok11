@@ -1,0 +1,19 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+3,Kentang,Hijau,Ya,Tidak,Tidak,Ya,Busuk Hitam
+16,Singkong,Hijau,Tidak,Ya,Tidak,Tidak,Busuk Hitam
+42,Tebu,Coklat,Ya,Tidak,Tidak,Tidak,Busuk Hitam
+71,Melon,Kuning,Tidak,Ya,Ya,Ya,Busuk Hitam
+103,Melon,Coklat,Ya,Tidak,Tidak,Ya,Busuk Hitam
+126,Wortel,Coklat,Tidak,Ya,Ya,Ya,Busuk Hitam
+129,Padi,Hijau,Ya,Ya,Ya,Tidak,Busuk Hitam
+149,Wortel,Coklat,Ya,Ya,Ya,Tidak,Busuk Hitam
+152,Jagung,Hijau,Ya,Ya,Ya,Tidak,Busuk Hitam
+174,Mangga,Coklat,Tidak,Tidak,Ya,Tidak,Busuk Hitam
+211,Kacang Tanah,Kuning,Tidak,Tidak,Tidak,Tidak,Busuk Hitam
+248,Semangka,Kuning,Ya,Ya,Ya,Tidak,Busuk Hitam
+251,Kacang Tanah,Coklat,Tidak,Ya,Tidak,Tidak,Busuk Hitam
+273,Kubis,Kuning,Tidak,Ya,Ya,Tidak,Busuk Hitam
+286,Kacang Tanah,Coklat,Ya,Tidak,Ya,Ya,Busuk Hitam
+292,Melon,Coklat,Tidak,Ya,Tidak,Tidak,Busuk Hitam
+297,Kentang,Kuning,Tidak,Ya,Tidak,Tidak,Busuk Hitam
+298,Semangka,Kuning,Tidak,Ya,Tidak,Ya,Busuk Hitam

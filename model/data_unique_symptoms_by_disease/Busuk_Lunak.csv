@@ -1,0 +1,8 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+1,Stroberi,Kuning,Tidak,Ya,Ya,Ya,Busuk Lunak
+21,Tomat,Hijau,Tidak,Ya,Ya,Tidak,Busuk Lunak
+34,Stroberi,Kuning,Ya,Tidak,Tidak,Tidak,Busuk Lunak
+48,Kubis,Kuning,Ya,Ya,Tidak,Tidak,Busuk Lunak
+64,Padi,Coklat,Tidak,Tidak,Tidak,Tidak,Busuk Lunak
+84,Bayam,Kuning,Tidak,Ya,Tidak,Ya,Busuk Lunak
+147,Semangka,Hijau,Ya,Ya,Tidak,Ya,Busuk Lunak

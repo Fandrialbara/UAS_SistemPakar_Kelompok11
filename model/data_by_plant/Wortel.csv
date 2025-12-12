@@ -1,0 +1,21 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+26,Wortel,Hijau,Tidak,Ya,Ya,Tidak,Layu Bakteri
+28,Wortel,Hijau,Ya,Ya,Ya,Ya,Layu Bakteri
+46,Wortel,Hijau,Tidak,Ya,Ya,Tidak,Bercak Daun
+72,Wortel,Coklat,Tidak,Ya,Tidak,Ya,Hawar Daun Bakteri
+87,Wortel,Kuning,Tidak,Tidak,Tidak,Ya,Antraknosa
+92,Wortel,Hijau,Tidak,Ya,Tidak,Tidak,Bercak Daun
+93,Wortel,Kuning,Ya,Tidak,Ya,Tidak,Busuk Buah Botrytis
+126,Wortel,Coklat,Tidak,Ya,Ya,Ya,Busuk Hitam
+135,Wortel,Kuning,Ya,Ya,Ya,Tidak,Antraknosa
+144,Wortel,Coklat,Tidak,Tidak,Ya,Ya,Busuk Lunak
+149,Wortel,Coklat,Ya,Ya,Ya,Tidak,Busuk Hitam
+162,Wortel,Kuning,Tidak,Ya,Ya,Ya,Busuk Buah Botrytis
+167,Wortel,Kuning,Ya,Tidak,Tidak,Tidak,Hawar Daun Bakteri
+179,Wortel,Hijau,Ya,Tidak,Tidak,Ya,Layu Fusarium
+199,Wortel,Kuning,Ya,Ya,Tidak,Tidak,Bercak Daun Cercospora
+257,Wortel,Kuning,Tidak,Tidak,Ya,Ya,Bercak Daun Cercospora
+269,Wortel,Hijau,Tidak,Tidak,Ya,Ya,Hawar Daun Bakteri
+271,Wortel,Kuning,Ya,Ya,Tidak,Tidak,Layu Fusarium
+282,Wortel,Hijau,Tidak,Ya,Tidak,Ya,Bercak Daun Cercospora
+295,Wortel,Kuning,Ya,Tidak,Ya,Ya,Layu Fusarium

@@ -1,0 +1,14 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+6,Pepaya,Kuning,Ya,Tidak,Ya,Ya,Bercak Daun
+14,Pepaya,Hijau,Ya,Tidak,Ya,Tidak,Embun Tepung
+15,Pepaya,Coklat,Tidak,Ya,Tidak,Tidak,Layu Bakteri
+52,Pepaya,Coklat,Ya,Tidak,Tidak,Tidak,Busuk Lunak
+99,Pepaya,Hijau,Ya,Ya,Ya,Ya,Busuk Lunak
+150,Pepaya,Hijau,Tidak,Tidak,Tidak,Tidak,Bercak Daun
+151,Pepaya,Hijau,Tidak,Tidak,Tidak,Tidak,Layu Fusarium
+156,Pepaya,Coklat,Tidak,Ya,Ya,Tidak,Embun Tepung
+175,Pepaya,Hijau,Tidak,Tidak,Tidak,Ya,Hawar Daun Bakteri
+177,Pepaya,Hijau,Ya,Tidak,Ya,Tidak,Antraknosa
+220,Pepaya,Coklat,Tidak,Ya,Ya,Ya,Antraknosa
+233,Pepaya,Coklat,Tidak,Tidak,Tidak,Tidak,Karat Daun
+280,Pepaya,Coklat,Ya,Ya,Tidak,Tidak,Bercak Daun Cercospora

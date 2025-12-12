@@ -1,0 +1,5 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+19,Bayam,Kuning,Tidak,Tidak,Ya,Tidak,Embun Tepung
+23,Tebu,Hijau,Tidak,Tidak,Tidak,Ya,Embun Tepung
+106,Kubis,Hijau,Tidak,Ya,Ya,Ya,Embun Tepung
+120,Jagung,Coklat,Ya,Ya,Ya,Ya,Embun Tepung

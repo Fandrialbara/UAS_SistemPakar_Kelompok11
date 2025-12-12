@@ -1,0 +1,18 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+8,Singkong,Hijau,Tidak,Tidak,Ya,Ya,Busuk Akar Phytophthora
+16,Singkong,Hijau,Tidak,Ya,Tidak,Tidak,Busuk Hitam
+38,Singkong,Hijau,Tidak,Tidak,Tidak,Tidak,Layu Fusarium
+39,Singkong,Kuning,Ya,Ya,Tidak,Ya,Bercak Daun
+40,Singkong,Coklat,Tidak,Tidak,Ya,Tidak,Layu Fusarium
+85,Singkong,Kuning,Tidak,Tidak,Ya,Tidak,Antraknosa
+89,Singkong,Kuning,Ya,Ya,Ya,Tidak,Karat Daun
+119,Singkong,Hijau,Tidak,Tidak,Ya,Ya,Bercak Daun
+143,Singkong,Hijau,Tidak,Ya,Tidak,Tidak,Bercak Daun Cercospora
+170,Singkong,Coklat,Ya,Ya,Tidak,Tidak,Embun Tepung
+215,Singkong,Kuning,Tidak,Tidak,Ya,Tidak,Antraknosa
+243,Singkong,Hijau,Ya,Ya,Tidak,Tidak,Karat Daun
+246,Singkong,Kuning,Tidak,Ya,Ya,Ya,Hawar Daun Bakteri
+264,Singkong,Kuning,Tidak,Ya,Tidak,Ya,Antraknosa
+266,Singkong,Kuning,Ya,Ya,Ya,Ya,Busuk Buah Botrytis
+267,Singkong,Hijau,Tidak,Ya,Ya,Ya,Layu Fusarium
+276,Singkong,Hijau,Ya,Tidak,Ya,Tidak,Busuk Akar Phytophthora

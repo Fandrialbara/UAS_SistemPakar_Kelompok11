@@ -1,0 +1,18 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+13,Terong,Hijau,Ya,Tidak,Ya,Tidak,Layu Bakteri
+15,Pepaya,Coklat,Tidak,Ya,Tidak,Tidak,Layu Bakteri
+26,Wortel,Hijau,Tidak,Ya,Ya,Tidak,Layu Bakteri
+28,Wortel,Hijau,Ya,Ya,Ya,Ya,Layu Bakteri
+74,Semangka,Coklat,Tidak,Ya,Tidak,Tidak,Layu Bakteri
+110,Kopi,Kuning,Ya,Ya,Tidak,Ya,Layu Bakteri
+125,Melon,Coklat,Ya,Ya,Tidak,Ya,Layu Bakteri
+153,Mangga,Hijau,Ya,Tidak,Ya,Tidak,Layu Bakteri
+160,Tomat,Coklat,Ya,Ya,Tidak,Tidak,Layu Bakteri
+164,Bayam,Coklat,Ya,Ya,Tidak,Tidak,Layu Bakteri
+166,Kubis,Kuning,Ya,Tidak,Tidak,Tidak,Layu Bakteri
+193,Semangka,Kuning,Tidak,Ya,Ya,Ya,Layu Bakteri
+202,Jagung,Kuning,Ya,Ya,Tidak,Ya,Layu Bakteri
+250,Semangka,Kuning,Ya,Ya,Tidak,Tidak,Layu Bakteri
+253,Kentang,Hijau,Tidak,Ya,Ya,Tidak,Layu Bakteri
+255,Kopi,Hijau,Ya,Ya,Ya,Ya,Layu Bakteri
+258,Melon,Hijau,Tidak,Tidak,Ya,Tidak,Layu Bakteri

@@ -1,0 +1,19 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+50,Terong,Hijau,Tidak,Tidak,Ya,Tidak,Busuk Buah Botrytis
+53,Jagung,Hijau,Ya,Ya,Tidak,Tidak,Busuk Buah Botrytis
+57,Mangga,Coklat,Ya,Tidak,Ya,Ya,Busuk Buah Botrytis
+70,Melon,Kuning,Ya,Tidak,Ya,Tidak,Busuk Buah Botrytis
+93,Wortel,Kuning,Ya,Tidak,Ya,Tidak,Busuk Buah Botrytis
+100,Terong,Coklat,Tidak,Ya,Tidak,Ya,Busuk Buah Botrytis
+159,Padi,Hijau,Tidak,Tidak,Tidak,Tidak,Busuk Buah Botrytis
+162,Wortel,Kuning,Tidak,Ya,Ya,Ya,Busuk Buah Botrytis
+173,Kentang,Coklat,Ya,Ya,Tidak,Ya,Busuk Buah Botrytis
+186,Jagung,Hijau,Ya,Ya,Tidak,Ya,Busuk Buah Botrytis
+201,Tebu,Coklat,Ya,Tidak,Ya,Tidak,Busuk Buah Botrytis
+207,Cabai,Kuning,Ya,Ya,Tidak,Ya,Busuk Buah Botrytis
+210,Tomat,Hijau,Ya,Tidak,Ya,Tidak,Busuk Buah Botrytis
+224,Tebu,Coklat,Tidak,Ya,Tidak,Tidak,Busuk Buah Botrytis
+228,Bayam,Hijau,Tidak,Tidak,Ya,Ya,Busuk Buah Botrytis
+256,Padi,Hijau,Tidak,Tidak,Ya,Tidak,Busuk Buah Botrytis
+266,Singkong,Kuning,Ya,Ya,Ya,Ya,Busuk Buah Botrytis
+287,Kacang Tanah,Coklat,Tidak,Tidak,Ya,Ya,Busuk Buah Botrytis

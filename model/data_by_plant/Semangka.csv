@@ -1,0 +1,19 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+37,Semangka,Kuning,Tidak,Tidak,Tidak,Tidak,Busuk Akar
+41,Semangka,Coklat,Ya,Ya,Tidak,Ya,Bercak Daun Cercospora
+74,Semangka,Coklat,Tidak,Ya,Tidak,Tidak,Layu Bakteri
+121,Semangka,Hijau,Tidak,Tidak,Tidak,Ya,Karat Daun
+138,Semangka,Hijau,Ya,Tidak,Tidak,Ya,Jamur Upas
+147,Semangka,Hijau,Ya,Ya,Tidak,Ya,Busuk Lunak
+165,Semangka,Kuning,Tidak,Ya,Ya,Tidak,Busuk Akar Phytophthora
+172,Semangka,Hijau,Ya,Ya,Tidak,Ya,Busuk Lunak
+181,Semangka,Hijau,Ya,Ya,Ya,Ya,Layu Fusarium
+182,Semangka,Coklat,Tidak,Tidak,Tidak,Tidak,Layu Fusarium
+193,Semangka,Kuning,Tidak,Ya,Ya,Ya,Layu Bakteri
+195,Semangka,Hijau,Ya,Ya,Ya,Ya,Layu Fusarium
+248,Semangka,Kuning,Ya,Ya,Ya,Tidak,Busuk Hitam
+250,Semangka,Kuning,Ya,Ya,Tidak,Tidak,Layu Bakteri
+254,Semangka,Kuning,Tidak,Tidak,Ya,Ya,Bercak Daun
+259,Semangka,Coklat,Tidak,Ya,Tidak,Tidak,Karat Daun
+279,Semangka,Hijau,Ya,Ya,Ya,Ya,Busuk Lunak
+298,Semangka,Kuning,Tidak,Ya,Tidak,Ya,Busuk Hitam

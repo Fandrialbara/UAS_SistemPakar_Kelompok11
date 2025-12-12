@@ -1,0 +1,4 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+6,Pepaya,Kuning,Ya,Tidak,Ya,Ya,Bercak Daun
+10,Kentang,Hijau,Tidak,Ya,Tidak,Tidak,Bercak Daun
+39,Singkong,Kuning,Ya,Ya,Tidak,Ya,Bercak Daun

@@ -1,0 +1,19 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+4,Mangga,Kuning,Tidak,Tidak,Tidak,Tidak,Hawar Daun Bakteri
+7,Bayam,Coklat,Ya,Tidak,Tidak,Tidak,Hawar Daun Bakteri
+49,Tebu,Hijau,Tidak,Tidak,Ya,Tidak,Hawar Daun Bakteri
+61,Tebu,Coklat,Ya,Tidak,Ya,Ya,Hawar Daun Bakteri
+72,Wortel,Coklat,Tidak,Ya,Tidak,Ya,Hawar Daun Bakteri
+97,Stroberi,Kuning,Ya,Ya,Ya,Ya,Hawar Daun Bakteri
+111,Kacang Tanah,Coklat,Tidak,Tidak,Tidak,Ya,Hawar Daun Bakteri
+145,Kentang,Coklat,Ya,Ya,Tidak,Ya,Hawar Daun Bakteri
+167,Wortel,Kuning,Ya,Tidak,Tidak,Tidak,Hawar Daun Bakteri
+175,Pepaya,Hijau,Tidak,Tidak,Tidak,Ya,Hawar Daun Bakteri
+208,Stroberi,Hijau,Ya,Ya,Tidak,Tidak,Hawar Daun Bakteri
+221,Tebu,Coklat,Ya,Tidak,Ya,Tidak,Hawar Daun Bakteri
+240,Kubis,Hijau,Ya,Ya,Ya,Ya,Hawar Daun Bakteri
+246,Singkong,Kuning,Tidak,Ya,Ya,Ya,Hawar Daun Bakteri
+269,Wortel,Hijau,Tidak,Tidak,Ya,Ya,Hawar Daun Bakteri
+272,Kentang,Coklat,Tidak,Ya,Ya,Tidak,Hawar Daun Bakteri
+278,Kentang,Hijau,Ya,Tidak,Tidak,Tidak,Hawar Daun Bakteri
+299,Tomat,Coklat,Ya,Ya,Tidak,Ya,Hawar Daun Bakteri

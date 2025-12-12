@@ -1,0 +1,15 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+20,Tebu,Coklat,Tidak,Tidak,Tidak,Ya,Jamur Upas
+31,Kopi,Kuning,Tidak,Tidak,Ya,Ya,Jamur Upas
+51,Mangga,Kuning,Ya,Tidak,Tidak,Tidak,Jamur Upas
+58,Jagung,Coklat,Ya,Ya,Tidak,Ya,Jamur Upas
+63,Mangga,Kuning,Tidak,Tidak,Ya,Tidak,Jamur Upas
+116,Kacang Tanah,Kuning,Tidak,Ya,Ya,Ya,Jamur Upas
+117,Kacang Tanah,Hijau,Tidak,Tidak,Tidak,Tidak,Jamur Upas
+138,Semangka,Hijau,Ya,Tidak,Tidak,Ya,Jamur Upas
+148,Melon,Hijau,Ya,Ya,Ya,Tidak,Jamur Upas
+157,Tebu,Kuning,Tidak,Tidak,Tidak,Ya,Jamur Upas
+187,Tomat,Kuning,Tidak,Ya,Ya,Tidak,Jamur Upas
+263,Kopi,Kuning,Ya,Tidak,Tidak,Ya,Jamur Upas
+285,Kentang,Kuning,Ya,Ya,Ya,Ya,Jamur Upas
+296,Tomat,Kuning,Ya,Ya,Ya,Ya,Jamur Upas

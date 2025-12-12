@@ -1,0 +1,19 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+43,Jagung,Coklat,Ya,Ya,Tidak,Ya,Busuk Akar
+47,Jagung,Hijau,Tidak,Tidak,Ya,Ya,Embun Tepung
+53,Jagung,Hijau,Ya,Ya,Tidak,Tidak,Busuk Buah Botrytis
+58,Jagung,Coklat,Ya,Ya,Tidak,Ya,Jamur Upas
+108,Jagung,Kuning,Tidak,Ya,Ya,Tidak,Karat Daun
+120,Jagung,Coklat,Ya,Ya,Ya,Ya,Embun Tepung
+152,Jagung,Hijau,Ya,Ya,Ya,Tidak,Busuk Hitam
+154,Jagung,Hijau,Ya,Ya,Ya,Ya,Busuk Akar
+183,Jagung,Coklat,Tidak,Tidak,Tidak,Tidak,Busuk Akar Phytophthora
+186,Jagung,Hijau,Ya,Ya,Tidak,Ya,Busuk Buah Botrytis
+191,Jagung,Hijau,Ya,Tidak,Ya,Tidak,Karat Daun
+196,Jagung,Coklat,Ya,Ya,Tidak,Tidak,Layu Fusarium
+200,Jagung,Hijau,Ya,Ya,Ya,Tidak,Embun Tepung
+202,Jagung,Kuning,Ya,Ya,Tidak,Ya,Layu Bakteri
+225,Jagung,Kuning,Ya,Ya,Ya,Tidak,Layu Fusarium
+227,Jagung,Kuning,Ya,Tidak,Ya,Ya,Busuk Lunak
+252,Jagung,Kuning,Ya,Tidak,Tidak,Ya,Layu Fusarium
+290,Jagung,Hijau,Ya,Tidak,Tidak,Ya,Embun Tepung

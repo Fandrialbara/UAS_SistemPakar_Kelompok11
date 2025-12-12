@@ -1,0 +1,34 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+2,Mangga,Hijau,Ya,Ya,Tidak,Tidak,Karat Daun
+22,Terong,Coklat,Tidak,Ya,Tidak,Ya,Karat Daun
+24,Terong,Hijau,Ya,Tidak,Tidak,Tidak,Karat Daun
+32,Mangga,Coklat,Ya,Tidak,Ya,Tidak,Karat Daun
+33,Kacang Tanah,Hijau,Ya,Tidak,Ya,Ya,Karat Daun
+55,Terong,Hijau,Ya,Tidak,Tidak,Ya,Karat Daun
+56,Stroberi,Hijau,Ya,Tidak,Ya,Tidak,Karat Daun
+59,Terong,Hijau,Tidak,Ya,Tidak,Tidak,Karat Daun
+62,Kubis,Coklat,Tidak,Tidak,Ya,Ya,Karat Daun
+68,Tomat,Kuning,Tidak,Ya,Ya,Tidak,Karat Daun
+69,Padi,Coklat,Tidak,Ya,Ya,Tidak,Karat Daun
+83,Mangga,Coklat,Tidak,Ya,Ya,Ya,Karat Daun
+89,Singkong,Kuning,Ya,Ya,Ya,Tidak,Karat Daun
+90,Melon,Kuning,Ya,Tidak,Tidak,Ya,Karat Daun
+102,Mangga,Coklat,Ya,Tidak,Ya,Ya,Karat Daun
+108,Jagung,Kuning,Tidak,Ya,Ya,Tidak,Karat Daun
+118,Padi,Hijau,Ya,Ya,Ya,Ya,Karat Daun
+121,Semangka,Hijau,Tidak,Tidak,Tidak,Ya,Karat Daun
+124,Tomat,Kuning,Ya,Tidak,Tidak,Tidak,Karat Daun
+131,Kacang Tanah,Hijau,Tidak,Ya,Ya,Tidak,Karat Daun
+133,Melon,Coklat,Tidak,Ya,Tidak,Ya,Karat Daun
+178,Padi,Hijau,Tidak,Tidak,Ya,Tidak,Karat Daun
+191,Jagung,Hijau,Ya,Tidak,Ya,Tidak,Karat Daun
+205,Padi,Kuning,Tidak,Tidak,Ya,Tidak,Karat Daun
+209,Tebu,Hijau,Ya,Ya,Ya,Tidak,Karat Daun
+233,Pepaya,Coklat,Tidak,Tidak,Tidak,Tidak,Karat Daun
+234,Kacang Tanah,Coklat,Tidak,Tidak,Ya,Tidak,Karat Daun
+243,Singkong,Hijau,Ya,Ya,Tidak,Tidak,Karat Daun
+245,Kacang Tanah,Hijau,Ya,Tidak,Tidak,Ya,Karat Daun
+259,Semangka,Coklat,Tidak,Ya,Tidak,Tidak,Karat Daun
+268,Tomat,Hijau,Tidak,Tidak,Ya,Ya,Karat Daun
+281,Mangga,Hijau,Tidak,Ya,Ya,Ya,Karat Daun
+284,Cabai,Hijau,Ya,Tidak,Tidak,Ya,Karat Daun

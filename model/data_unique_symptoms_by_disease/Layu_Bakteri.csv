@@ -1,0 +1,4 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+13,Terong,Hijau,Ya,Tidak,Ya,Tidak,Layu Bakteri
+15,Pepaya,Coklat,Tidak,Ya,Tidak,Tidak,Layu Bakteri
+28,Wortel,Hijau,Ya,Ya,Ya,Ya,Layu Bakteri

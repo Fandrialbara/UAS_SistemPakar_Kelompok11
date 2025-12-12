@@ -1,0 +1,5 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+38,Singkong,Hijau,Tidak,Tidak,Tidak,Tidak,Layu Fusarium
+40,Singkong,Coklat,Tidak,Tidak,Ya,Tidak,Layu Fusarium
+86,Cabai,Kuning,Ya,Ya,Ya,Tidak,Layu Fusarium
+88,Kacang Tanah,Kuning,Tidak,Ya,Tidak,Tidak,Layu Fusarium

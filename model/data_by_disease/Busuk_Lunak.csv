@@ -1,0 +1,32 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+1,Stroberi,Kuning,Tidak,Ya,Ya,Ya,Busuk Lunak
+21,Tomat,Hijau,Tidak,Ya,Ya,Tidak,Busuk Lunak
+30,Mangga,Hijau,Tidak,Tidak,Tidak,Ya,Busuk Lunak
+34,Stroberi,Kuning,Ya,Tidak,Tidak,Tidak,Busuk Lunak
+48,Kubis,Kuning,Ya,Ya,Tidak,Tidak,Busuk Lunak
+52,Pepaya,Coklat,Ya,Tidak,Tidak,Tidak,Busuk Lunak
+60,Tomat,Kuning,Tidak,Ya,Ya,Ya,Busuk Lunak
+64,Padi,Coklat,Tidak,Tidak,Tidak,Tidak,Busuk Lunak
+84,Bayam,Kuning,Tidak,Ya,Tidak,Ya,Busuk Lunak
+99,Pepaya,Hijau,Ya,Ya,Ya,Ya,Busuk Lunak
+109,Tomat,Hijau,Tidak,Tidak,Tidak,Ya,Busuk Lunak
+122,Cabai,Coklat,Ya,Tidak,Ya,Ya,Busuk Lunak
+139,Mangga,Hijau,Tidak,Tidak,Ya,Tidak,Busuk Lunak
+141,Bayam,Kuning,Ya,Tidak,Tidak,Ya,Busuk Lunak
+144,Wortel,Coklat,Tidak,Tidak,Ya,Ya,Busuk Lunak
+146,Bayam,Kuning,Tidak,Ya,Ya,Ya,Busuk Lunak
+147,Semangka,Hijau,Ya,Ya,Tidak,Ya,Busuk Lunak
+169,Bayam,Hijau,Ya,Ya,Ya,Tidak,Busuk Lunak
+172,Semangka,Hijau,Ya,Ya,Tidak,Ya,Busuk Lunak
+180,Kacang Tanah,Coklat,Tidak,Ya,Tidak,Ya,Busuk Lunak
+188,Kubis,Coklat,Ya,Tidak,Ya,Tidak,Busuk Lunak
+212,Melon,Coklat,Ya,Tidak,Tidak,Tidak,Busuk Lunak
+219,Cabai,Coklat,Tidak,Ya,Ya,Ya,Busuk Lunak
+227,Jagung,Kuning,Ya,Tidak,Ya,Ya,Busuk Lunak
+231,Kopi,Coklat,Ya,Tidak,Tidak,Tidak,Busuk Lunak
+235,Stroberi,Coklat,Tidak,Tidak,Ya,Ya,Busuk Lunak
+249,Cabai,Hijau,Tidak,Tidak,Ya,Tidak,Busuk Lunak
+260,Tebu,Hijau,Ya,Tidak,Ya,Tidak,Busuk Lunak
+270,Tebu,Coklat,Ya,Tidak,Ya,Tidak,Busuk Lunak
+279,Semangka,Hijau,Ya,Ya,Ya,Ya,Busuk Lunak
+289,Kentang,Coklat,Tidak,Tidak,Tidak,Ya,Busuk Lunak

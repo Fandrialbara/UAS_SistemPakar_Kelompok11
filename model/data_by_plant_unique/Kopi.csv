@@ -1,0 +1,15 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+18,Kopi,Kuning,Ya,Tidak,Tidak,Ya,Antraknosa
+31,Kopi,Kuning,Tidak,Tidak,Ya,Ya,Jamur Upas
+54,Kopi,Coklat,Ya,Ya,Tidak,Tidak,Busuk Akar
+110,Kopi,Kuning,Ya,Ya,Tidak,Ya,Layu Bakteri
+114,Kopi,Hijau,Tidak,Ya,Tidak,Ya,Embun Tepung
+192,Kopi,Coklat,Ya,Ya,Tidak,Ya,Busuk Akar Phytophthora
+198,Kopi,Kuning,Ya,Tidak,Tidak,Ya,Busuk Akar Phytophthora
+218,Kopi,Kuning,Ya,Tidak,Tidak,Tidak,Layu Fusarium
+231,Kopi,Coklat,Ya,Tidak,Tidak,Tidak,Busuk Lunak
+242,Kopi,Coklat,Tidak,Tidak,Tidak,Tidak,Layu Fusarium
+255,Kopi,Hijau,Ya,Ya,Ya,Ya,Layu Bakteri
+262,Kopi,Hijau,Tidak,Ya,Ya,Tidak,Busuk Akar Phytophthora
+263,Kopi,Kuning,Ya,Tidak,Tidak,Ya,Jamur Upas
+274,Kopi,Coklat,Ya,Tidak,Tidak,Ya,Bercak Daun

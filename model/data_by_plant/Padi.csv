@@ -1,0 +1,18 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+64,Padi,Coklat,Tidak,Tidak,Tidak,Tidak,Busuk Lunak
+69,Padi,Coklat,Tidak,Ya,Ya,Tidak,Karat Daun
+77,Padi,Coklat,Ya,Ya,Ya,Tidak,Antraknosa
+107,Padi,Hijau,Tidak,Tidak,Tidak,Tidak,Embun Tepung
+118,Padi,Hijau,Ya,Ya,Ya,Ya,Karat Daun
+129,Padi,Hijau,Ya,Ya,Ya,Tidak,Busuk Hitam
+159,Padi,Hijau,Tidak,Tidak,Tidak,Tidak,Busuk Buah Botrytis
+161,Padi,Kuning,Tidak,Tidak,Ya,Tidak,Busuk Akar Phytophthora
+171,Padi,Kuning,Tidak,Ya,Tidak,Tidak,Bercak Daun Cercospora
+178,Padi,Hijau,Tidak,Tidak,Ya,Tidak,Karat Daun
+203,Padi,Hijau,Ya,Ya,Ya,Tidak,Antraknosa
+205,Padi,Kuning,Tidak,Tidak,Ya,Tidak,Karat Daun
+214,Padi,Kuning,Tidak,Ya,Tidak,Tidak,Busuk Akar
+232,Padi,Kuning,Tidak,Ya,Tidak,Tidak,Bercak Daun Cercospora
+256,Padi,Hijau,Tidak,Tidak,Ya,Tidak,Busuk Buah Botrytis
+291,Padi,Hijau,Tidak,Ya,Ya,Ya,Bercak Daun Cercospora
+300,Padi,Coklat,Tidak,Ya,Ya,Tidak,Bercak Daun Cercospora

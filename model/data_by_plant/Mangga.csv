@@ -1,0 +1,24 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+2,Mangga,Hijau,Ya,Ya,Tidak,Tidak,Karat Daun
+4,Mangga,Kuning,Tidak,Tidak,Tidak,Tidak,Hawar Daun Bakteri
+30,Mangga,Hijau,Tidak,Tidak,Tidak,Ya,Busuk Lunak
+32,Mangga,Coklat,Ya,Tidak,Ya,Tidak,Karat Daun
+45,Mangga,Coklat,Tidak,Tidak,Ya,Ya,Busuk Akar
+51,Mangga,Kuning,Ya,Tidak,Tidak,Tidak,Jamur Upas
+57,Mangga,Coklat,Ya,Tidak,Ya,Ya,Busuk Buah Botrytis
+63,Mangga,Kuning,Tidak,Tidak,Ya,Tidak,Jamur Upas
+65,Mangga,Kuning,Ya,Ya,Ya,Ya,Busuk Akar Phytophthora
+82,Mangga,Coklat,Tidak,Tidak,Ya,Ya,Busuk Akar Phytophthora
+83,Mangga,Coklat,Tidak,Ya,Ya,Ya,Karat Daun
+91,Mangga,Coklat,Ya,Tidak,Ya,Ya,Embun Tepung
+102,Mangga,Coklat,Ya,Tidak,Ya,Ya,Karat Daun
+115,Mangga,Kuning,Ya,Tidak,Ya,Ya,Antraknosa
+123,Mangga,Kuning,Tidak,Tidak,Tidak,Ya,Bercak Daun
+127,Mangga,Hijau,Tidak,Ya,Tidak,Tidak,Antraknosa
+139,Mangga,Hijau,Tidak,Tidak,Ya,Tidak,Busuk Lunak
+153,Mangga,Hijau,Ya,Tidak,Ya,Tidak,Layu Bakteri
+174,Mangga,Coklat,Tidak,Tidak,Ya,Tidak,Busuk Hitam
+237,Mangga,Coklat,Tidak,Tidak,Ya,Tidak,Antraknosa
+281,Mangga,Hijau,Tidak,Ya,Ya,Ya,Karat Daun
+288,Mangga,Coklat,Tidak,Ya,Tidak,Tidak,Busuk Akar Phytophthora
+294,Mangga,Kuning,Tidak,Tidak,Tidak,Ya,Busuk Akar Phytophthora

@@ -1,0 +1,6 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+2,Mangga,Hijau,Ya,Ya,Tidak,Tidak,Karat Daun
+22,Terong,Coklat,Tidak,Ya,Tidak,Ya,Karat Daun
+24,Terong,Hijau,Ya,Tidak,Tidak,Tidak,Karat Daun
+32,Mangga,Coklat,Ya,Tidak,Ya,Tidak,Karat Daun
+33,Kacang Tanah,Hijau,Ya,Tidak,Ya,Ya,Karat Daun

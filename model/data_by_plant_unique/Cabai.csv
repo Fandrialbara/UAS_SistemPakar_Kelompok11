@@ -1,0 +1,14 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+9,Cabai,Coklat,Ya,Ya,Tidak,Ya,Busuk Akar Phytophthora
+36,Cabai,Hijau,Ya,Ya,Ya,Ya,Busuk Akar Phytophthora
+86,Cabai,Kuning,Ya,Ya,Ya,Tidak,Layu Fusarium
+112,Cabai,Hijau,Tidak,Tidak,Tidak,Ya,Busuk Akar Phytophthora
+122,Cabai,Coklat,Ya,Tidak,Ya,Ya,Busuk Lunak
+197,Cabai,Hijau,Ya,Tidak,Ya,Ya,Antraknosa
+207,Cabai,Kuning,Ya,Ya,Tidak,Ya,Busuk Buah Botrytis
+216,Cabai,Coklat,Ya,Ya,Tidak,Tidak,Antraknosa
+219,Cabai,Coklat,Tidak,Ya,Ya,Ya,Busuk Lunak
+223,Cabai,Coklat,Tidak,Ya,Ya,Tidak,Antraknosa
+249,Cabai,Hijau,Tidak,Tidak,Ya,Tidak,Busuk Lunak
+283,Cabai,Coklat,Ya,Ya,Ya,Tidak,Busuk Akar Phytophthora
+284,Cabai,Hijau,Ya,Tidak,Tidak,Ya,Karat Daun

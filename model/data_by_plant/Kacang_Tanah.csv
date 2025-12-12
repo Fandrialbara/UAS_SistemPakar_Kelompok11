@@ -1,0 +1,22 @@
+ID,Nama_Tanaman,Warna_Daun,Bercak_Daun,Daun_Layu,Batang_Busuk,Pertumbuhan_Terhambat,Penyakit
+25,Kacang Tanah,Kuning,Ya,Ya,Ya,Ya,Antraknosa
+33,Kacang Tanah,Hijau,Ya,Tidak,Ya,Ya,Karat Daun
+88,Kacang Tanah,Kuning,Tidak,Ya,Tidak,Tidak,Layu Fusarium
+94,Kacang Tanah,Hijau,Tidak,Ya,Ya,Tidak,Busuk Akar
+105,Kacang Tanah,Kuning,Ya,Ya,Ya,Ya,Busuk Akar
+111,Kacang Tanah,Coklat,Tidak,Tidak,Tidak,Ya,Hawar Daun Bakteri
+116,Kacang Tanah,Kuning,Tidak,Ya,Ya,Ya,Jamur Upas
+117,Kacang Tanah,Hijau,Tidak,Tidak,Tidak,Tidak,Jamur Upas
+131,Kacang Tanah,Hijau,Tidak,Ya,Ya,Tidak,Karat Daun
+155,Kacang Tanah,Hijau,Tidak,Ya,Ya,Tidak,Embun Tepung
+158,Kacang Tanah,Hijau,Ya,Ya,Tidak,Tidak,Layu Fusarium
+168,Kacang Tanah,Coklat,Tidak,Ya,Tidak,Tidak,Busuk Akar Phytophthora
+180,Kacang Tanah,Coklat,Tidak,Ya,Tidak,Ya,Busuk Lunak
+184,Kacang Tanah,Kuning,Tidak,Ya,Tidak,Tidak,Busuk Akar Phytophthora
+211,Kacang Tanah,Kuning,Tidak,Tidak,Tidak,Tidak,Busuk Hitam
+234,Kacang Tanah,Coklat,Tidak,Tidak,Ya,Tidak,Karat Daun
+244,Kacang Tanah,Hijau,Tidak,Ya,Ya,Tidak,Busuk Akar Phytophthora
+245,Kacang Tanah,Hijau,Ya,Tidak,Tidak,Ya,Karat Daun
+251,Kacang Tanah,Coklat,Tidak,Ya,Tidak,Tidak,Busuk Hitam
+286,Kacang Tanah,Coklat,Ya,Tidak,Ya,Ya,Busuk Hitam
+287,Kacang Tanah,Coklat,Tidak,Tidak,Ya,Ya,Busuk Buah Botrytis
