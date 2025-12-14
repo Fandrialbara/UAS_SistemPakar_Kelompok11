@@ -1,4 +1,4 @@
-Sistem Pakar
+Sistem Pakar - Fuzzy-like (otomatis dari dataset)
 ================================================
 
 Isi folder:
